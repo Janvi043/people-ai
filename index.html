@@ -1,0 +1,55 @@
+<!-- index.html -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Colorblind Video Player with Transcript</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h2>Colorblind Video Player with Transcript</h2>
+
+    <div class="video-transcript">
+      <div class="video-controls">
+        <div class="upload-section">
+          <label for="fileUpload">Upload Video:</label>
+          <input type="file" id="fileUpload" accept="video/*">
+        </div>
+
+        <div class="colorblind-section">
+          <label for="colorblind-type">Select Colorblind Type:</label>
+          <select id="colorblind-type">
+            <option value="normal">Normal Vision</option>
+            <option value="protanopia">Protanopia</option>
+            <option value="deuteranopia">Deuteranopia</option>
+            <option value="tritanopia">Tritanopia</option>
+          </select>
+        </div>
+
+        <div class="contrast-section">
+          <label for="contrastLevel">Contrast:</label>
+          <input type="range" id="contrastLevel" min="0" max="200" value="100">
+        </div>
+
+        <div class="brightness-section">
+          <label for="brightnessLevel">Brightness:</label>
+          <input type="range" id="brightnessLevel" min="0" max="200" value="100">
+        </div>
+      </div>
+
+      <div class="video-container">
+        <video controls id="uploadedVideo">
+          Your browser does not support the video tag.
+        </video>
+      </div>
+
+      
+    </div>
+  </div>
+  <script src="colorblind-player.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
