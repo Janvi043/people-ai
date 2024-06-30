@@ -7,6 +7,9 @@ A web application that provides accessibilty features for colour blindness and n
 Problem Statement: 
 Create customizable accessibility features for video interfaces to enhance usability for users with color blindness
 
+Science Behind This:
+The primary visual cortex, situated in the occipital lobe, processes visual information, including color contrast, through signals from the optic nerve. Its neurons specialize in detecting color and contrast variations, enabling precise visual detail encoding.
+
 Solution 
 
 1. Customizable Color Contrast: Improves visual clarity by allowing users to adjust video color contrast to reduce visual strain.
