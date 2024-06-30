@@ -1,35 +1,36 @@
 # access colors
 
-## A web application that provides accessibilty features for colour blindness and neurodivergence in  video interfaces.
+A web application that provides accessibilty features for colour blindness and neurodivergence in  video interfaces.
+
+### ___________________________________________________________________________________________________________________
 
 
-## Science Behind It
+Solution 
 
-### The primary visual cortex, located in the occipital lobe, processes visual information including color contrast:
-###  Signal Processing:It receives signals from the eyes via the optic nerve, processing basic visual features like shapes and colors. Neurons specialize in detecting color and contrast ### variations.
-### Neuronal Specialization: Neurons in the primary visual cortex have specific receptive fields for color and contrast, enabling precise visual detail encoding.
-### Perceptual Impact: This processing is crucial for visual perception, object recognition, and depth perception, supporting effective visual communication and design accessibility.
+1. Customizable Color Contrast: Improves visual clarity by allowing users to adjust video color contrast to reduce visual strain.
+2. Sensory Stimuli Management: Controls audio levels and filters out overwhelming noises to enhance auditory comfort.
+3. Personalized Playback Settings: Offers adjustable playback speed, subtitles, and viewing modes tailored to individual preferences.
+
+How to run the Project:
+
+1. Download the Zip File.
+2. Open in Vscode or any other software.
+3. Run in the terminal.
+4. Upload any video.
+5. Alter the color contrast/ Brightness and choose type of color blindness if you suffer from any.
+
+Tech Stack:
+
+1. HTML
+2. CSS
+3. JavaScript
+
+![WhatsApp Image 2024-06-29 at 16 59 57](https://github.com/Janvi043/people-ai/assets/94429824/809fd4b2-6b75-4892-bff0-d3731fc0f1c1)
+
+![Screenshot 2024-06-29 170429](https://github.com/Janvi043/people-ai/assets/94429824/bd4d40f2-9bf5-4685-b9b0-81dc69165a6c)
 
 
-
-## Solution
-
-###  Customizable Color Contrast: Improves visual clarity by allowing users to adjust video color contrast to reduce visual strain.
-### Sensory Stimuli Management: Controls audio levels and filters out overwhelming noises to enhance auditory comfort.
-### Personalized Playback Settings: Offers adjustable playback speed, subtitles, and viewing modes tailored to individual preferences.
-
-
-
-## Advantages
-
-###  Sensory Comfort: Adjusting color contrast can alleviate sensory overload for neurodiverse individuals, enhancing comfort and reducing visual distractions.
-### Improved Clarity: Optimal color contrast improves readability and comprehension of information, aiding focus and understanding, especially for those with conditions like dyslexia or ### ADHD.
-### Personalized Playback Settings: Offers adjustable playback speed, subtitles, and viewing modes tailored to individual preferences.
-
-
-##___________________________________________________________________________________________________________________________________________________________
-
-##  Thank You
+### _____________________________________________________________________________________________________________________
 
 
 
