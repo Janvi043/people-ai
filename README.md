@@ -4,6 +4,8 @@ A web application that provides accessibilty features for colour blindness and n
 
 ### ____________________________________________________________________________________
 
+Problem Statement: 
+Create customizable accessibility features for video interfaces to enhance usability for users with color blindness
 
 Solution 
 
